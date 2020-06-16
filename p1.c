@@ -1,3 +1,4 @@
+//demo program to understand struct
 #include<stdio.h>
 struct student s1=
 {
